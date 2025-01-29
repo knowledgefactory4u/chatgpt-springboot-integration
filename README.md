@@ -19,5 +19,5 @@ This project demonstrates how to integrate OpenAI's ChatGPT API with a Spring Bo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/chatgpt-springboot-integration.git
+https://github.com/knowledgefactory4u/chatgpt-springboot-integration.git
 cd chatgpt-springboot-integration
